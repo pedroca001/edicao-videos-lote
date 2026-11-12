@@ -1,0 +1,132 @@
+{
+  "export_date": "2026-11-12",
+  "editor_version": "0.8.2",
+  "renderer_version": "0.4.2",
+  "source": "<CODIGO_ROOT>/local_video_editor",
+  "files": [
+    {
+      "path": "auto_planner.py",
+      "sha256": "1b0429e6a7c954d2d7fa773fe214609f6f4ebb48cbc25dbbe18c1fa2f095ee72"
+    },
+    {
+      "path": "avatar_speech.py",
+      "sha256": "eebc144acb95a329134fe6a5c43e8138114db565a563329f63df44ce9587b8c3"
+    },
+    {
+      "path": "batch_assistant.py",
+      "sha256": "4e68d28cd7da6939807361e53a5b581fd9193f64e35a9eb44cadea71efe937b7"
+    },
+    {
+      "path": "condensed_planner.py",
+      "sha256": "9050fd8097f472c234cf46df44f457c1ee00f2c7bea4573a4de2c63676291e31"
+    },
+    {
+      "path": "cut_review.py",
+      "sha256": "fd689f98fd0e9d72a5bc6676afcd3e3288cc103eb112a5fa3f599ce7055e6c2a"
+    },
+    {
+      "path": "edit_avatar_batch.py",
+      "sha256": "05ba8c50afa98cd80eace9bd080ba0279cc7e7fb5c9ba819629b0cf640d2a977"
+    },
+    {
+      "path": "edit_batch.py",
+      "sha256": "206b521cc88b382c5da3aeeba133cd329b939020a005bde4fae645583a82a998"
+    },
+    {
+      "path": "edit_hook_matrix.py",
+      "sha256": "b42cf1e92074f3648c3f1560c2f4f61c933d13b41600e5dac703e43ad983b2c7"
+    },
+    {
+      "path": "edit_pair_batch.py",
+      "sha256": "d59d3cad35b99abc1967bdc177fb803f92ae8c518292165a5951ae28c59ee46b"
+    },
+    {
+      "path": "iniciar_editor.command",
+      "sha256": "eefbad2c4220020455b4c1f43c88fb43ea0afcec89b4461e5ccc0b34f7b41bf7"
+    },
+    {
+      "path": "iniciar_editor.ps1",
+      "sha256": "167424be0755d36e47e9c0fceb8c3b016bae00c99f62180ebc123d3e3a22786f"
+    },
+    {
+      "path": "instalar_mac.command",
+      "sha256": "b04e1567a7fb6b6b1a6f4b3a976e110b86b5601f4bef99d5abc488323f6b042a"
+    },
+    {
+      "path": "install_runtime.py",
+      "sha256": "489d41a28da575cbe56a615ef46ae5b2d7c9b9f67d1b9d047c63227fc878de73"
+    },
+    {
+      "path": "install_windows.py",
+      "sha256": "8c681a0c3ba43f70102dfb84450c5e9abc5e28d0a338e199b9628fdbf1ec1a8f"
+    },
+    {
+      "path": "motion_planner.py",
+      "sha256": "4d90232dfb7e6ee96543df74b700e60bef7dbb80a7e342bb200173b7db925f59"
+    },
+    {
+      "path": "package_release.py",
+      "sha256": "b73aed17c497d7e58d95ccf91c72108c8fbb07cfd2489f3e1f21bd3344fc8ae1"
+    },
+    {
+      "path": "requirements_apple.txt",
+      "sha256": "9da535093a05635359dd007098781eb0b1af0c5f17c1b27d649aeb478e397dff"
+    },
+    {
+      "path": "run_pipeline.py",
+      "sha256": "4dd8bf94e5753d431b818fa8a5589c5b4f27c3c75474144ca2e470195da8557c"
+    },
+    {
+      "path": "tests/test_assistant.py",
+      "sha256": "7614220db1d8004dab06f37fcf327811643c86ba1874eecd7d930bbbd3fe379a"
+    },
+    {
+      "path": "tests/test_auto_planner.py",
+      "sha256": "b7b736f08b01e28b8809a5f90932a4ec4f354dbd12ee8c80a9f059ea1fd91731"
+    },
+    {
+      "path": "tests/test_avatar.py",
+      "sha256": "428e99ab94b99013b941a2d975c51cb4d925baa97e111fce86eecd9c3091de68"
+    },
+    {
+      "path": "tests/test_avatar_speech.py",
+      "sha256": "ff8921ca19cc7df14bf5ef9f00012ba1bcb6127c8634c48067a47f35f683b543"
+    },
+    {
+      "path": "tests/test_condensed_planner.py",
+      "sha256": "8287dc25cb861468e06f7d28f5f6691a4ec5ba03a34b653115b69c12b9a9116f"
+    },
+    {
+      "path": "tests/test_editor.py",
+      "sha256": "69e0278d54eacb3cf553ed95ce36520b4eac7a4f8e96253dbfd0235c9bbc8f71"
+    },
+    {
+      "path": "tests/test_hook_recipe.py",
+      "sha256": "1fdcae7758188ff95ce2143194e8bb977d9de643610929238106243a6be0a3a1"
+    },
+    {
+      "path": "tests/test_matrix_styles.py",
+      "sha256": "0694279ec6ba2305f2569b85924c57f328864b0921e74b74ce469808f5f42719"
+    },
+    {
+      "path": "tests/test_motion_planner.py",
+      "sha256": "c06536ab7dcca5d031d22897d0180d3fe6924d53156e2700f134b5358d0ebd65"
+    },
+    {
+      "path": "tests/test_nvenc_initialization.py",
+      "sha256": "71e95b39df806bff00b7a570097e0b4eeca7cc4348f40f8d77bab8f32cac6db2"
+    },
+    {
+      "path": "tests/test_pair_shared_file.py",
+      "sha256": "08640c9d308ac239c3bde77050be1623dfe584f1db4c4ba29bd9a6700be6c458"
+    },
+    {
+      "path": "tests/test_pair_voice_cache.py",
+      "sha256": "c1efca144aac25fc5267c0a83375115b6c49adda1cff32273928a94e04253afe"
+    },
+    {
+      "path": "transcribe.py",
+      "sha256": "27f1871e01ed4c7fd1721e619dad1dbd39b91c0c200fa2cddb841eafe3097bbe"
+    }
+  ]
+}
